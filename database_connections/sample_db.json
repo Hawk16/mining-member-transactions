@@ -1,0 +1,6 @@
+{
+    "sql_driver": "ODBC Driver 17 for SQL Server", 
+    "server": "< INSERT SERVER NAME >", 
+    "database": "< INSERT DATABASE NAME >", 
+    "trusted_connection": "yes"
+}
